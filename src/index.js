@@ -12,7 +12,7 @@ const root = document.getElementById('root');
 createRoot(root).render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter basename="/TaskPro-FrontEnd-Team6">
+      <BrowserRouter basename="/react_node_fs_64_resinner">
         <App />
       </BrowserRouter>
     </Provider>
