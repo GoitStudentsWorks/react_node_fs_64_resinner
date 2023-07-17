@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_64_resinner/static/css/main.e8aff01a.css",
-    "main.js": "/react_node_fs_64_resinner/static/js/main.062e5729.js",
+    "main.js": "/react_node_fs_64_resinner/static/js/main.300e3cc1.js",
     "static/js/880.3218f4ad.chunk.js": "/react_node_fs_64_resinner/static/js/880.3218f4ad.chunk.js",
     "static/js/168.7ced5036.chunk.js": "/react_node_fs_64_resinner/static/js/168.7ced5036.chunk.js",
     "static/js/719.2e284c7d.chunk.js": "/react_node_fs_64_resinner/static/js/719.2e284c7d.chunk.js",
@@ -24,7 +24,7 @@
     "static/media/user-light.svg": "/react_node_fs_64_resinner/static/media/user-light.c757b6ef444375f4367cc94835fbb6ac.svg",
     "static/media/user-violet.svg": "/react_node_fs_64_resinner/static/media/user-violet.1ad82273455132b83953bbe9a6cc602a.svg",
     "main.e8aff01a.css.map": "/react_node_fs_64_resinner/static/css/main.e8aff01a.css.map",
-    "main.062e5729.js.map": "/react_node_fs_64_resinner/static/js/main.062e5729.js.map",
+    "main.300e3cc1.js.map": "/react_node_fs_64_resinner/static/js/main.300e3cc1.js.map",
     "880.3218f4ad.chunk.js.map": "/react_node_fs_64_resinner/static/js/880.3218f4ad.chunk.js.map",
     "168.7ced5036.chunk.js.map": "/react_node_fs_64_resinner/static/js/168.7ced5036.chunk.js.map",
     "719.2e284c7d.chunk.js.map": "/react_node_fs_64_resinner/static/js/719.2e284c7d.chunk.js.map",
@@ -36,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.e8aff01a.css",
-    "static/js/main.062e5729.js"
+    "static/js/main.300e3cc1.js"
   ]
 }
